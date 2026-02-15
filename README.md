@@ -1,16 +1,34 @@
-# React + Vite
+# Shreeya Vanka – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I’m Shreeya, a Master’s student in Data Science at Northeastern University, Boston.  
+I focus on Data Analytics, AI/ML, and transforming complex datasets into strategic insights.
 
-## React Compiler
+This portfolio showcases my:
+- Projects
+- Technical skills
+- Professional experience
+- Resume
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design
+- Animated UI sections
+- Experience timeline
+- Resume download
+- Clean corporate aesthetic
+
+## Live Demo
+
+
+
