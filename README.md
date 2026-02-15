@@ -29,6 +29,5 @@ This portfolio showcases my:
 - Clean corporate aesthetic
 
 ## Live Demo
-
-
+https://6991fc7f3ea9ca742390a835--mypersonalportfolionew.netlify.app/
 
