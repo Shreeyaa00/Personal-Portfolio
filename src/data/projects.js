@@ -34,7 +34,7 @@ export const projects = [
   {
     title: "Bike Rental Demand Prediction",
     description:
-      "Built a machine learning pipeline to predict hourly bike rental demand using 17,000+ Capital Bikeshare records, comparing Linear, Lasso, and Random Forest regression models using weather and temporal features.",
+      "Developed a time-based bike rental demand forecasting pipeline in R, using lag features and ensemble models to achieve **R² = 0.951 and RMSE = 50.2**. Identified peak-demand patterns and model error trends to support operational planning.",
     tech: [
       "R",
       "tidyverse",
@@ -44,7 +44,7 @@ export const projects = [
       "Data Visualization",
     ],
     image: "/images/projects/bike-rental.png",
-    github: "#",
+    github: "https://github.com/Shreeyaa00/bike-demand-forecasting",
   },
 
   {
